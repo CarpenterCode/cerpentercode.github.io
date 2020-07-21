@@ -25,9 +25,9 @@ Game created for gamejam with the theme of "1980's". My goal was to get close to
 
 ### Category Name 2
 
-- [1B github](http://example.com/)
-- [Tiny World github](http://example.com/)
-- [RightieShooter github](http://example.com/)
+- [1B github](https://github.com/CarpenterCode/1B)
+- [Tiny World github](https://github.com/CarpenterCode/Tiny-World)
+- [RightieShooter github](https://github.com/CarpenterCode/EightieShooter)
 
 ---
 
