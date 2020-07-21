@@ -6,14 +6,16 @@
 
 [1B](https://iamfilthycasual.itch.io/1b)
 First game made by me for a gamejam with the theme of "One button".
-<img src="images/1.png?raw=true"/>
+<img src="images/1B 1.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Tiny World](https://iamfilthycasual.itch.io/tinyworld)
+Second game created by me for gamejam with the theme of "Tiny world".
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[EightieShooter](http://example.com/)
+Game created for gamejam with the theme of "1980's". My goal was to get close to the 80's neon architecture.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
