@@ -12,7 +12,8 @@ First game made by me for a gamejam with the theme of "One button".
 ---
 [Tiny World](https://iamfilthycasual.itch.io/tinyworld)
 Second game created by me for gamejam with the theme of "Tiny world".
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/TW1.png?raw=true"/>
+<img src="images/TW2.png?raw=true"/>
 
 ---
 [EightieShooter](http://example.com/)
