@@ -28,3 +28,12 @@ Game created for gamejam with the theme of "1980's". My goal was to get close to
 - [1B github](http://example.com/)
 - [Tiny World github](http://example.com/)
 - [RightieShooter github](http://example.com/)
+
+---
+
+
+
+
+---
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!-- Remove above link if you don't want to attibute -->
