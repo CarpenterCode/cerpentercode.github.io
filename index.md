@@ -6,6 +6,7 @@
 
 [1B](https://iamfilthycasual.itch.io/1b)
 First game made by me for a gamejam with the theme of "One button".
+<img src="images/1B 2.png?raw=true"/>
 <img src="images/1B 1.png?raw=true"/>
 
 ---
