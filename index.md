@@ -16,9 +16,9 @@ Second game created by me for gamejam with the theme of "Tiny world".
 <img src="images/TW2.png?raw=true"/>
 
 ---
-[EightieShooter](http://example.com/)
+[EightieShooter](https://iamfilthycasual.itch.io/eightieshooter)
 Game created for gamejam with the theme of "1980's". My goal was to get close to the 80's neon architecture.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Eightie1.png?raw=true"/>
 
 ---
 
