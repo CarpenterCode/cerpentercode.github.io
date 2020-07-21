@@ -4,8 +4,9 @@
 
 ### My finished projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/1,png?raw=true"/>
+[1B](/sample_page)
+First game made by me for a gamejam with the theme of "One button".
+<img src="images/1.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
