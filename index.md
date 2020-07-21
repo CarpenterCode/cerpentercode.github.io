@@ -19,22 +19,12 @@ Second game created by me for gamejam with the theme of "Tiny world".
 [EightieShooter](https://iamfilthycasual.itch.io/eightieshooter)
 Game created for gamejam with the theme of "1980's". My goal was to get close to the 80's neon architecture.
 <img src="images/Eightie1.png?raw=true"/>
+<img src="images/Eightie2.png?raw=true"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+- [1B github](http://example.com/)
+- [Tiny World github](http://example.com/)
+- [RightieShooter github](http://example.com/)
